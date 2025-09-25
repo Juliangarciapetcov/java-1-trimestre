@@ -10,8 +10,8 @@ public class EjemploOperadoresAritmeticos {
         System.out.println("multiplicacion =" + (numero1 * numero2));
         System.out.println("division =" + (numero1 / numero2));
         System.out.println("resto de la division = " + (numero1 % numero2));
-        resultado = numero1 * numero1 + (numero2 / numero1) -(numero2 * 22 );
-        System.out.println("resultado +" resultado);
+        double resultado = numero1 * numero1 + (numero2 / numero1) -(numero2 * 22 );
+        System.out.println("resultado " +  resultado);
 
 
     }
